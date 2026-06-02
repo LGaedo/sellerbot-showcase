@@ -1,0 +1,26 @@
+{
+  "business_id": "demo-business-001",
+  "customer_id": "demo-customer-001",
+  "status": "pending_confirmation",
+  "delivery_type": "delivery",
+  "valid_products": [
+    {
+      "product_id": "demo-product-001",
+      "name": "Coffee",
+      "quantity": 2,
+      "unit_price": 3.5,
+      "subtotal": 7.0
+    },
+    {
+      "product_id": "demo-product-002",
+      "name": "Cheesecake",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "subtotal": 5.0
+    }
+  ],
+  "invalid_products": [],
+  "suggested_products": [],
+  "total_amount": 12.0,
+  "requires_customer_confirmation": true
+}
