@@ -1,0 +1,7 @@
+{
+  "provider": "twilio",
+  "business_id": "demo-business-001",
+  "from": "whatsapp:+10000000000",
+  "message": "Hi, I want 2 coffees and 1 cheesecake for delivery",
+  "timestamp": "2026-01-01T12:00:00Z"
+}
