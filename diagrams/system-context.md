@@ -1,3 +1,6 @@
+# System Context Diagram
+
+```mermaid
 flowchart TD
     Customer[Customer]
     Business[Business Owner / Operator]
@@ -14,3 +17,4 @@ flowchart TD
     SellerBot -->|Sends replies| Twilio
     Business -->|Manages catalog and receives orders| SellerBot
     SellerBot -->|Deployable on| AWS
+```
